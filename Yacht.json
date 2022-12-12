@@ -1,0 +1,8 @@
+{
+  "Yachts":
+  [
+    {"YachtType":"Difficult","TrailElevation":"2521 ft","YachtID":1,"YachtImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg","YachtLength":"8.0 mi","YachtName":" Miss Bessy","TrailTime":"5.5 hrs","YachtWebsite":"https://www.hikingupward.com/snp/oldrag/", "YachtDescription": "Old Rag Mountain Loop is a 9.5 mile heavily trafficked loop trail located near Etlan, Virginia that features a river and is rated as difficult. The trail is primarily used for hiking and is best used from May until October.", "YachtAddress" : "State Rte 600, Etlan, VA 22719"},
+    {"YachtType":"Strenuous","TrailElevation":"3960 ft","YachtID":10,"YachtImage":"http://www.protogic.com/images/Three_Ridges.jpg","YachtLength":"14.4 mi","YachtName":"Miss Bessy","TrailTime":"2 Days (Day 1 - 5.0 hrs, Day 2 4.5 hrs)","YachtWebsite":"https://www.hikingupward.com/GWNF/ThreeRidges/", "YachtDescription": "Harpers Creek Shelter via Appalachian Trail is a 5.1 mile lightly trafficked out and back trail located near Tyro, Virginia that offers the chance to see wildlife. The trail is rated as difficult and is primarily used for hiking and running.", "YachtAddress" : "Appalachian National Scenic Trail, Tyro, VA 22976"}
+  ],
+  "Status":"OK"
+}
